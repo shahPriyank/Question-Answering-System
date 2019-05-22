@@ -1,0 +1,375 @@
+{
+  "Question": "Who founded Apple Inc.?",
+  "Answers:": [
+    "Wozniak",
+    "Ronald",
+    "Wayne",
+    "Computer",
+    "Inc."
+  ],
+  "Sentences:": "Jobs, Wozniak, and Ronald Wayne founded Apple Computer (now called Apple Inc.) in the garage of Jobs's Los Altos home on Crist Drive.",
+  "Document:": "SteveJobs.txt"
+}
+{
+  "Question": "Who supported Apple in creating a new computing platform?",
+  "Answers:": [
+    "IBM",
+    "Motorola",
+    "IBM",
+    "Motorola"
+  ],
+  "Sentences:": "In 1994, Apple, IBM, and Motorola formed the AIM alliance with the goal of creating a new computing platform (the PowerPC Reference Platform), which would use IBM and Motorola hardware coupled with Apple software.",
+  "Document:": "AppleInc.txt"
+}
+{
+  "Question": "When was Apple Inc. founded?",
+  "Answers:": [
+    "April",
+    "1",
+    ",",
+    "1976"
+  ],
+  "Sentences:": "Apple Computer Company was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne.",
+  "Document:": "AppleInc.txt"
+}
+{
+  "Question": "When did Apple go public?",
+  "Answers:": [
+    "1980"
+  ],
+  "Sentences:": "Apple went public in 1980 to instant financial success.",
+  "Document:": "AppleInc.txt"
+}
+{
+  "Question": "Where is Apple\u2019s headquarters?",
+  "Answers:": [
+    "Herzliya",
+    "Israel"
+  ],
+  "Sentences:": "In February 2015, Apple opened their new 180,000-square-foot headquarters in Herzliya, Israel, designed to accommodate approximately 800 employees.",
+  "Document:": "AppleInc.txt"
+}
+{
+  "Question": "Where did Apple open its first retail store?",
+  "Answers:": [
+    "Virginia",
+    "California"
+  ],
+  "Sentences:": "On May 19, 2001, Apple opened its first official eponymous retail stores in Virginia and California.",
+  "Document:": "AppleInc.txt"
+}
+{
+  "Question": "When did Abraham Lincoln die?",
+  "Answers:": [
+    "December",
+    "21",
+    ",",
+    "1850",
+    "February",
+    "20",
+    ",",
+    "1862"
+  ],
+  "Sentences:": "\"Willie\" Lincoln was born on December 21, 1850, and died of a fever on February 20, 1862.",
+  "Document:": "AbrahamLincoln.txt"
+}
+{
+  "Question": "Where did Thomas Lincoln purchase farms?",
+  "Answers:": [
+    "Kentucky"
+  ],
+  "Sentences:": "Thomas Lincoln bought or leased farms in Kentucky.",
+  "Document:": "AbrahamLincoln.txt"
+}
+{
+  "Question": "When was the Gettysburg address by Abraham Lincoln?",
+  "Answers:": [
+    "1972"
+  ],
+  "Sentences:": "In 1972, Washington scholar James Flexner referred to the Farewell Address as receiving as much acclaim as Thomas Jefferson's Declaration of Independence and Abraham Lincoln's Gettysburg Address.",
+  "Document:": "GeorgeWashington.txt"
+}
+{
+  "Question": "Who founded UTD?",
+  "Answers:": [
+    "TV"
+  ],
+  "Sentences:": "In 2009, UTD TV, an internet-based campus TV station, was founded and launched by students.",
+  "Document:": "UTD.txt"
+}
+{
+  "Question": "When was UTD established?",
+  "Answers:": [],
+  "Sentences:": "It also established a national currency.",
+  "Document:": "AbrahamLincoln.txt"
+}
+{
+  "Question": "Where was Melinda born?",
+  "Answers:": [
+    "Dallas",
+    "Texas"
+  ],
+  "Sentences:": "Melinda Ann French was born on August 15, 1964 in Dallas, Texas.",
+  "Document:": "MelindaGates.txt"
+}
+{
+  "Question": "Where is the birth place of Oprah Winfrey?",
+  "Answers:": [],
+  "Sentences:": "A birth is considered preterm when it takes place more than 3 weeks before the estimated due date.",
+  "Document:": "Texas.txt"
+}
+{
+  "Question": "Where is the headquarters of AT&T?",
+  "Answers:": [
+    "Bedminster",
+    "New",
+    "Jersey"
+  ],
+  "Sentences:": "Bedminster, New Jersey, is the headquarters for the company's Global Business Services group and AT&T Labs.",
+  "Document:": "AT_T.txt"
+}
+{
+  "Question": "When did AT&T spread to South America?",
+  "Answers:": [],
+  "Sentences:": "These cities are spread out amongst the state.",
+  "Document:": "Texas.txt"
+}
+{
+  "Question": "When did Warren Buffett buy Berkshire Hathaway's shares?",
+  "Answers:": [
+    "1962"
+  ],
+  "Sentences:": "In 1962, Warren Buffett began buying stock in Berkshire Hathaway after noticing a pattern in the price direction of its stock whenever the company closed a mill.",
+  "Document:": "Berkshire_Hathaway.txt"
+}
+{
+  "Question": "When did Steve Jobs die?",
+  "Answers:": [
+    "October",
+    "5",
+    ",",
+    "2011"
+  ],
+  "Sentences:": "On October 5, 2011, Steve Jobs died, marking the end of an era for Apple.",
+  "Document:": "AppleInc.txt"
+}
+{
+  "Question": "Where is the headquarters of Exxon Mobil?",
+  "Answers:": [
+    "New",
+    "York",
+    "Fairfax",
+    "County",
+    "Virginia"
+  ],
+  "Sentences:": "Mobil moved its headquarters from New York to Fairfax County, Virginia, in 1987.",
+  "Document:": "ExxonMobil.txt"
+}
+{
+  "Question": "When was Exxon Mobile created?",
+  "Answers:": [
+    "April",
+    "27",
+    ",",
+    "2017"
+  ],
+  "Sentences:": "Mobile Star LLC settled with Apple for an undisclosed amount on April 27, 2017.",
+  "Document:": "Amazon_com.txt"
+}
+{
+  "Question": "Where is the headquarters of Amazon.com?",
+  "Answers:": [
+    "Tribeca",
+    "Greenwich"
+  ],
+  "Sentences:": "Citigroup has its headquarters located in downtown Tribeca (388 Greenwich).",
+  "Document:": "CitiGroup.txt"
+}
+{
+  "Question": "Who founded Apple Inc.?",
+  "Answers:": [
+    "Wozniak",
+    "Ronald",
+    "Wayne",
+    "Computer",
+    "Inc."
+  ],
+  "Sentences:": "Jobs, Wozniak, and Ronald Wayne founded Apple Computer (now called Apple Inc.) in the garage of Jobs's Los Altos home on Crist Drive.",
+  "Document:": "SteveJobs.txt"
+}
+{
+  "Question": "Who supported Apple in creating a new computing platform?",
+  "Answers:": [
+    "IBM",
+    "Motorola",
+    "IBM",
+    "Motorola"
+  ],
+  "Sentences:": "In 1994, Apple, IBM, and Motorola formed the AIM alliance with the goal of creating a new computing platform (the PowerPC Reference Platform), which would use IBM and Motorola hardware coupled with Apple software.",
+  "Document:": "AppleInc.txt"
+}
+{
+  "Question": "When was Apple Inc. founded?",
+  "Answers:": [
+    "April",
+    "1",
+    ",",
+    "1976"
+  ],
+  "Sentences:": "Apple Computer Company was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne.",
+  "Document:": "AppleInc.txt"
+}
+{
+  "Question": "When did Apple go public?",
+  "Answers:": [
+    "1980"
+  ],
+  "Sentences:": "Apple went public in 1980 to instant financial success.",
+  "Document:": "AppleInc.txt"
+}
+{
+  "Question": "Where is Apple\u2019s headquarters?",
+  "Answers:": [
+    "Herzliya",
+    "Israel"
+  ],
+  "Sentences:": "In February 2015, Apple opened their new 180,000-square-foot headquarters in Herzliya, Israel, designed to accommodate approximately 800 employees.",
+  "Document:": "AppleInc.txt"
+}
+{
+  "Question": "Where did Apple open its first retail store?",
+  "Answers:": [
+    "Virginia",
+    "California"
+  ],
+  "Sentences:": "On May 19, 2001, Apple opened its first official eponymous retail stores in Virginia and California.",
+  "Document:": "AppleInc.txt"
+}
+{
+  "Question": "When did Abraham Lincoln die?",
+  "Answers:": [
+    "December",
+    "21",
+    ",",
+    "1850",
+    "February",
+    "20",
+    ",",
+    "1862"
+  ],
+  "Sentences:": "\"Willie\" Lincoln was born on December 21, 1850, and died of a fever on February 20, 1862.",
+  "Document:": "AbrahamLincoln.txt"
+}
+{
+  "Question": "Where did Thomas Lincoln purchase farms?",
+  "Answers:": [
+    "Kentucky"
+  ],
+  "Sentences:": "Thomas Lincoln bought or leased farms in Kentucky.",
+  "Document:": "AbrahamLincoln.txt"
+}
+{
+  "Question": "When was the Gettysburg address by Abraham Lincoln?",
+  "Answers:": [
+    "1972"
+  ],
+  "Sentences:": "In 1972, Washington scholar James Flexner referred to the Farewell Address as receiving as much acclaim as Thomas Jefferson's Declaration of Independence and Abraham Lincoln's Gettysburg Address.",
+  "Document:": "GeorgeWashington.txt"
+}
+{
+  "Question": "Who founded UTD?",
+  "Answers:": [
+    "TV"
+  ],
+  "Sentences:": "In 2009, UTD TV, an internet-based campus TV station, was founded and launched by students.",
+  "Document:": "UTD.txt"
+}
+{
+  "Question": "When was UTD established?",
+  "Answers:": [],
+  "Sentences:": "When Jobs denied paternity, a DNA test established him as Lisa's father.",
+  "Document:": "SteveJobs.txt"
+}
+{
+  "Question": "Where was Melinda born?",
+  "Answers:": [
+    "Dallas",
+    "Texas"
+  ],
+  "Sentences:": "Melinda Ann French was born on August 15, 1964 in Dallas, Texas.",
+  "Document:": "MelindaGates.txt"
+}
+{
+  "Question": "Where is the birth place of Oprah Winfrey?",
+  "Answers:": [],
+  "Sentences:": "A birth is considered preterm when it takes place more than 3 weeks before the estimated due date.",
+  "Document:": "Texas.txt"
+}
+{
+  "Question": "Where is the headquarters of AT&T?",
+  "Answers:": [
+    "United",
+    "Kingdom",
+    "Stockley",
+    "Park",
+    "London"
+  ],
+  "Sentences:": "Its United Kingdom headquarters is at Stockley Park on the outskirts of London.",
+  "Document:": "AppleInc.txt"
+}
+{
+  "Question": "When did AT&T spread to South America?",
+  "Answers:": [],
+  "Sentences:": "These cities are spread out amongst the state.",
+  "Document:": "Texas.txt"
+}
+{
+  "Question": "When did Warren Buffett buy Berkshire Hathaway's shares?",
+  "Answers:": [
+    "1962"
+  ],
+  "Sentences:": "In 1962, Warren Buffett began buying stock in Berkshire Hathaway after noticing a pattern in the price direction of its stock whenever the company closed a mill.",
+  "Document:": "Berkshire_Hathaway.txt"
+}
+{
+  "Question": "When did Steve Jobs die?",
+  "Answers:": [
+    "October",
+    "5",
+    ",",
+    "2011"
+  ],
+  "Sentences:": "On October 5, 2011, Steve Jobs died, marking the end of an era for Apple.",
+  "Document:": "AppleInc.txt"
+}
+{
+  "Question": "Where is the headquarters of Exxon Mobil?",
+  "Answers:": [
+    "New",
+    "York",
+    "Fairfax",
+    "County",
+    "Virginia"
+  ],
+  "Sentences:": "Mobil moved its headquarters from New York to Fairfax County, Virginia, in 1987.",
+  "Document:": "ExxonMobil.txt"
+}
+{
+  "Question": "When was Exxon Mobile created?",
+  "Answers:": [
+    "April",
+    "27",
+    ",",
+    "2017"
+  ],
+  "Sentences:": "Mobile Star LLC settled with Apple for an undisclosed amount on April 27, 2017.",
+  "Document:": "Amazon_com.txt"
+}
+{
+  "Question": "Where is the headquarters of Amazon.com?",
+  "Answers:": [
+    "Amsterdam"
+  ],
+  "Sentences:": "Tesla's European headquarters are in Amsterdam.",
+  "Document:": "TeslaInc.txt"
+}
